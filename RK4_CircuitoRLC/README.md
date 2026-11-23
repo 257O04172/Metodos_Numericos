@@ -38,6 +38,10 @@ java RK4CircuitoRLC
 Ejemplo de Salida en Pantalla (
 h=0.2,n=25 puntos)
 	 t_n	 y1 (Carga)	 y2 (Corr)
+
+
+Process finished with exit code 0
+
 -----------------------------------------------
 0	 0.00	 1.000000	 0.000000
 1	 0.20	 0.980643	 -0.190814
